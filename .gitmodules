@@ -1,0 +1,9 @@
+[submodule "port-db"]
+	path = port-db
+	url = https://github.com/JoaoLubaw/port-db.git
+[submodule "port-view"]
+	path = port-view
+	url = https://github.com/JoaoLubaw/port-view.git
+[submodule "port-core"]
+	path = port-core
+	url = https://github.com/JoaoLubaw/port-core.git
